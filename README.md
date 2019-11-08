@@ -1,2 +1,2 @@
-# MavenCalculator
-This is a sample Calculator App For git Testing Purpose
+# AntWithTomcat
+This is a Ant With Tomcat App For git Testing Purpose
